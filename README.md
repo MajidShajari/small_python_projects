@@ -7,7 +7,7 @@ This is the main repository for all of the projects in the book:
     | :- | :--------------------------------------------------------------------------------: | :----------------------------------------------------: | :------------------------: |
     | 01 | [BAGELS](https://github.com/MajidShajari/small_python_projects/tree/master/bagels) | **Deduce a secret three-digit number based on clues.** | _Practice using constants._ |
     | 02 | [Birthday Paradox](https://github.com/MajidShajari/small_python_projects/tree/master/birthday_paradox) | **Determine the probability that two people share the same birthday in groups of different sizes.** | _Use Python’s datetime module._
-    | 03 | [Bitmap Message]() | **Display a message on the screen configured by a 2D bitmap image.** | _Work with multiline strings._
+    | 03 | [Bitmap Message](https://github.com/MajidShajari/small_python_projects/tree/master/bitmap_message) | **Display a message on the screen configured by a 2D bitmap image.** | _Work with multiline strings._
     | 04 | [Text]() | **And more** | _And More_
     | 05 | [Text]() | **And more** | _And More_
     | 06 | [Text]() | **And more** | _And More_
