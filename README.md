@@ -6,6 +6,8 @@ This is the main repository for all of the projects in the book:
 
 | # | Project | Description | Goal |
 | :- | :-----------------: | :----: |  :----: |
+| #  | Project                                                                            | Description                                            | Goal                        |
+| :- | :--------------------------------------------------------------------------------: | :----------------------------------------------------: |  :------------------------: |
 | 01 | [BAGELS](https://github.com/MajidShajari/small_python_projects/tree/master/bagels) | **Deduce a secret three-digit number based on clues.** | *Practice using constants.* |
 | 02 | [Birthday Paradox](https://github.com/MajidShajari/small_python_projects/tree/master/birthday_paradox) | **Determine the probability that two people share the same birthday in groups of different sizes.** | *Use Python’s datetime module.*
 | 03 | [Text]() | **And more** | *And More*
