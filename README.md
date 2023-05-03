@@ -4,7 +4,7 @@ This is the main repository for all of the projects in the book:
 
 -   *[The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)*
 -   *[resource files used in the book](https://nostarch.com/download/BigBookPythonResources.zip)*
-
+## MY Resource 
     | # | Project | Description | Goal |
     | :- | :--------------------------------------------------------------------------------: | :----------------------------------------------------: | :------------------------: |
     | 01 | [BAGELS](https://github.com/MajidShajari/small_python_projects/tree/master/bagels) | **Deduce a secret three-digit number based on clues.** | _Practice using constants._ |
