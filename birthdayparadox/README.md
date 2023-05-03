@@ -1,6 +1,6 @@
 # Birthday Paradox Simulation
 
-This is a Python implementation of a Monte Carlo simulation of the **[Birthday Paradox]**(https://en.wikipedia.org/wiki/Birthday_problem). The birthday paradox shows us that in a group of N people, the odds that two of them have matching birthdays is surprisingly large.
+This is a Python implementation of a Monte Carlo simulation of the *[Birthday Paradox](https://en.wikipedia.org/wiki/Birthday_problem)*. The birthday paradox shows us that in a group of N people, the odds that two of them have matching birthdays is surprisingly large.
 
 ## Requirements
 
