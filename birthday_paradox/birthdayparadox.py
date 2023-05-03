@@ -1,5 +1,4 @@
-"""Birthday Paradox Simulation, by Al Sweigart al@inventwithpython.com
-Explore the surprising probabilities of the "Birthday Paradox".
+"""Explore the surprising probabilities of the "Birthday Paradox".
 Tags: short, math, simulation"""
 
 import timeit
