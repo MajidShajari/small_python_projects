@@ -1,4 +1,4 @@
-"""Explore the surprising probabilities of the "Birthday Paradox".
+"""git Explore the surprising probabilities of the "Birthday Paradox".
 Tags: short, math, simulation"""
 
 import timeit
