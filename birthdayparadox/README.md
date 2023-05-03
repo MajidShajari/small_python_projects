@@ -17,7 +17,3 @@ The program will prompt you to enter the number of birthdays to generate (up to 
 ## Contributing
 
 Contributions are welcome. Please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
