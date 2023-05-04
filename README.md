@@ -11,7 +11,7 @@ This is the main repository for all of the projects in the book:
 | 01 | [BAGELS](https://github.com/MajidShajari/small_python_projects/tree/master/bagels) | **Deduce a secret three-digit number based on clues.** | _Practice using constants._ |
 | 02 | [Birthday Paradox](https://github.com/MajidShajari/small_python_projects/tree/master/birthdayparadox) | **Determine the probability that two people share the same birthday in groups of different sizes.** | _Use Python’s datetime module._
 | 03 | [Bitmap Message](https://github.com/MajidShajari/small_python_projects/tree/master/bitmapmessage) | **Display a message on the screen configured by a 2D bitmap image.** | _Work with multiline strings._
-| 04 | [Text]() | **[And_more](https://github.com/MajidShajari/small_python_projects/tree/master/)** | _AndMore_
+| 04 | [Blackjack](https://github.com/MajidShajari/small_python_projects/tree/master/blackjack) | **A classic card game played against an AI dealer.** | _Learn about Unicode characters and code points._
 | 05 | [Text]() | **[And_more](https://github.com/MajidShajari/small_python_projects/tree/master/)** | _AndMore_
 | 06 | [Text]() | **[And_more](https://github.com/MajidShajari/small_python_projects/tree/master/)** | _AndMore_
 | 07 | [Text]() | **[And_more](https://github.com/MajidShajari/small_python_projects/tree/master/)** | _AndMore_
