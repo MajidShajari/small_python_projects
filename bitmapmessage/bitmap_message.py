@@ -6,7 +6,7 @@ import sys
 # (!) Try changing this multiline string to any image you like:
 
 # There are 68 periods along the top and bottom of this string:
-bitmap = """
+BITMAP = """
 ....................................................................
    **************   *  *** **  *      ******************************
   ********************* ** ** *  * ****************************** *
@@ -33,6 +33,6 @@ message = input('Enter the message to display with the bitmap.\n> ')
 if message == '':
     sys.exit()
 
-for line in bitmap.splitlines():
+for line in BITMAP.splitlines():
     print(''.join(message[i % len(message)] if bit !=
           ' ' else ' ' for i, bit in enumerate(line)))

@@ -10,7 +10,7 @@ This program displays a text message according to a provided bitmap image. The u
 
     Clone or download the repository.
     Navigate to the project directory.
-    Run `python3 bitmap_message.py`.
+    Run `python bitmap_message.py`.
 
 When you run the program, it will prompt you to enter the message to be displayed. Type in the message and press Enter. If you don't want to display a message, you can leave the input field blank and the program will exit.
 
