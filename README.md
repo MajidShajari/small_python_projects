@@ -1,6 +1,7 @@
 # Small Python Projects
+## Acknowledgments
 
-This is the main repository for all of the projects in the book:
+This codes is based on the codes in _The Big Book of Small Python Projects_ by Al Sweigart.
 
 -   _[The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)_
 -   _[resource files used in the book](https://nostarch.com/download/BigBookPythonResources.zip)_
