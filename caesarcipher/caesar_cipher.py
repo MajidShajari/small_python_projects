@@ -1,4 +1,4 @@
-"""Caesar Cipher, by Al Sweigart al@inventwithpython.com
+"""Caesar Cipher
 The Caesar cipher is a shift cipher that uses addition and subtraction
 to encrypt and decrypt letters.
 Tags: short, beginner, cryptography, math"""
