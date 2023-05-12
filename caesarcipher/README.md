@@ -9,14 +9,14 @@ The Caesar Cipher is a simple encryption technique that shifts letters by a cert
 
 ## Customization
 
-You can customize the behavior of the program by modifying the following constants in the code:
+    You can customize the behavior of the program by modifying the following constants in the code:
 
--   `SYMBOLS`: Controls the main alphabet for check and encrypt message
+    - `SYMBOLS`: Controls the main alphabet for check and encrypt message
 
 ## Usage
 
     Clone or download the repository.
-    Install the `bext` module by running `pip install pyperclip`.
+    Install the `pyperclip` module by running `pip install pyperclip`.
     Navigate the project directory .
     Run `python caesar_cipher.py`.
 
