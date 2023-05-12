@@ -15,9 +15,8 @@ The Caesar Cipher Hacker is a Python program that performs a brute force attack 
 ## Usage
 
     Clone or download the repository.
-    Install the `bext` module by running `pip install pyperclip`.
     Navigate the project directory .
-    Run `python caesar_cipher.py`.
+    Run `python caesar_hacker.py`.
 
 ## Contributing
 
