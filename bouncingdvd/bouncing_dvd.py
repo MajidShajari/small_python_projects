@@ -1,7 +1,13 @@
 import sys
 import random
 import time
-from bext import goto, clear, fg, size
+try:
+    from bext import goto, clear, fg, size
+except ImportError:
+    print('This program requires the bext module, which you')
+    print('can install by following the instructions at')
+    print('https://pypi.org/project/Bext/')
+    sys.exit()
 
 # Set up the constants:
 WIDTH, HEIGHT = 30, 30
