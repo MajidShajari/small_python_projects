@@ -1,6 +1,7 @@
 # Small Python Projects
+## Acknowledgments
 
-This is the main repository for all of the projects in the book:
+This codes is based on the codes in _The Big Book of Small Python Projects_ by Al Sweigart.
 
 -   _[The Big Book of Small Python Projects](https://nostarch.com/big-book-small-python-projects)_
 -   _[resource files used in the book](https://nostarch.com/download/BigBookPythonResources.zip)_
@@ -13,7 +14,7 @@ This is the main repository for all of the projects in the book:
 | 02  | [Birthday Paradox](https://github.com/MajidShajari/small_python_projects/tree/master/birthdayparadox) | **Determine the probability that two people share the same birthday in groups of different sizes.** |          _Use Python’s datetime module._          |
 | 03  |   [Bitmap Message](https://github.com/MajidShajari/small_python_projects/tree/master/bitmapmessage)   |                **Display a message on the screen configured by a 2D bitmap image.**                 |          _Work with multiline strings._           |
 | 04  |       [Blackjack](https://github.com/MajidShajari/small_python_projects/tree/master/blackjack)        |                        **A classic card game played against an AI dealer.**                         | _Learn about Unicode characters and code points._ |
-| 05  |              [Text](https://github.com/MajidShajari/small_python_projects/tree/master/)               |                                            **And_more**                                             |                     _AndMore_                     |
+| 05  |              [BOUNCING DVD LOGO](https://github.com/MajidShajari/small_python_projects/tree/master/bouncingdvd)               |                                            **Simulates the colorful bouncing DVD logo of decades past.**                                             |                     _Work with coordinates and colorful text._                     |
 | 06  |              [Text](https://github.com/MajidShajari/small_python_projects/tree/master/)               |                                            **And_more**                                             |                     _AndMore_                     |
 | 07  |              [Text](https://github.com/MajidShajari/small_python_projects/tree/master/)               |                                            **And_more**                                             |                     _AndMore_                     |
 | 08  |              [Text](https://github.com/MajidShajari/small_python_projects/tree/master/)               |                                            **And_more**                                             |                     _AndMore_                     |
