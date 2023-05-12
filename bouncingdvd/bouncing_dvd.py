@@ -103,23 +103,25 @@ def main():
 def opposite_direction_x(direction):
     if direction == UP_RIGHT:
         return UP_LEFT
-    elif direction == UP_LEFT:
+    if direction == UP_LEFT:
         return UP_RIGHT
-    elif direction == DOWN_RIGHT:
+    if direction == DOWN_RIGHT:
         return DOWN_LEFT
-    elif direction == DOWN_LEFT:
+    if direction == DOWN_LEFT:
         return DOWN_RIGHT
+    return direction
 
 
 def opposite_direction_y(direction):
     if direction == UP_RIGHT:
         return DOWN_RIGHT
-    elif direction == UP_LEFT:
+    if direction == UP_LEFT:
         return DOWN_LEFT
-    elif direction == DOWN_RIGHT:
+    if direction == DOWN_RIGHT:
         return UP_RIGHT
-    elif direction == DOWN_LEFT:
+    if direction == DOWN_LEFT:
         return UP_LEFT
+    return direction
 
 
 if __name__ == '__main__':
