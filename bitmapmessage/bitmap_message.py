@@ -29,10 +29,16 @@ BITMAP = """
                     **     *                    *
 ...................................................................."""
 
-message = input('Enter the message to display with the bitmap.\n> ')
-if message == '':
-    sys.exit()
 
-for line in BITMAP.splitlines():
-    print(''.join(message[i % len(message)] if bit !=
-          ' ' else ' ' for i, bit in enumerate(line)))
+def main():
+    message = input('Enter the message to display with the bitmap.\n> ')
+    if message == '':
+        sys.exit()
+
+    for line in BITMAP.splitlines():
+        print(''.join(message[i % len(message)] if bit !=
+              ' ' else ' ' for i, bit in enumerate(line)))
+
+
+if __name__ == '__main__':
+    main()
