@@ -161,3 +161,4 @@ cython_debug/
 #.idea/
 # other
 *.pdf
+README.md.sample

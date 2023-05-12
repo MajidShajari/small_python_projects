@@ -4,17 +4,20 @@ This program displays a text message according to a provided bitmap image. The u
 
 ## Requirements
 
-    Python 3.x
+-   Python 3.x
 
 ## Usage
 
-    Clone or download the repository.
-    Navigate to the project directory.
-    Run `python bitmap_message.py`.
+-   Clone or download the repository.
+-   Navigate to the project directory.
+-   Run `python bitmap_message.py` script in your terminal.
 
-When you run the program, it will prompt you to enter the message to be displayed. Type in the message and press Enter. If you don't want to display a message, you can leave the input field blank and the program will exit.
+-   When you run the program, it will prompt you to enter the message to be displayed.
+-   Type in the message and press Enter.
+-   If you don't want to display a message, you can leave the input field blank and the program will exit.
 
-After you enter the message, the program will display the bitmap image with the non-blank characters replaced with characters from the message. Each character in the message will be repeated as necessary to fill the entire image.
+-   After you enter the message, the program will display the bitmap image with the non-blank characters replaced with characters from the message.
+-   Each character in the message will be repeated as necessary to fill the entire image.
 
 ## Customization
 

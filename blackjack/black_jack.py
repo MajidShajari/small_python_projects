@@ -51,7 +51,7 @@ def get_bet(max_bet):
         try:
             bet = input(
                 f"How much do you bet? (1-{max_bet}, or QUIT) ").upper().strip()
-            if bet == 'QUIT':
+            if bet.upper() == 'QUIT':
                 print('Thanks for playing!')
                 sys.exit()
             if 1 <= int(bet) <= max_bet:
