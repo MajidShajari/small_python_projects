@@ -89,7 +89,7 @@ This codes is based on the codes in _The Big Book of Small Python Projects_ by A
 | 77  | [Tower of Hanoi](https://github.com/MajidShajari/small_python_projects/tree/master/towerofhanoi) | **The classic disk stacking puzzle.** | _Use stack data structures to simulate a puzzle state._ |
 | 78  | [Trick Questions](https://github.com/MajidShajari/small_python_projects/tree/master/trickquestions) | **A quiz of simple questions with misleading answers.** | _Parse the user’s text to recognize keywords._ |
 | 79  | [Twenty Forty-Eight](https://github.com/MajidShajari/small_python_projects/tree/master/twentyfortyeight) | **A casual tile matching game.** | _Simulate gravity to make tiles “fall” in arbitrary directions._ |
-| 80  | [Vigenère Cipher](https://github.com/MajidShajari/small_python_projects/tree/master/vigenerecipher) | **An encryption scheme so advanced itremained unbreakable <br>for hundreds of years until computers were invented.** | _Perform more advanced math on text._ |
+| 80  | [Vigenère Cipher](https://github.com/MajidShajari/small_python_projects/tree/master/vigenerecipher) | **An encryption scheme so advanced itremained <br>unbreakable <br>for hundreds of years until computers were invented.** | _Perform more advanced math on text._ |
 | 81  | [Water Bucket Puzzle](https://github.com/MajidShajari/small_python_projects/tree/master/waterbucket) | **Obtain exactly four liters of water by filling and emptying three buckets.** | _Use string templates to generate ASCII art._ |
 
 ## License
