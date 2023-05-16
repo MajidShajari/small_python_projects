@@ -43,6 +43,7 @@ def result_game(player_value, dealer_value, money, bet):
 
     input('Press Enter to continue...')
     print('\n\n')
+    return money
 
 
 def get_bet(max_bet):
@@ -216,10 +217,10 @@ def main():
 
         display_hands(player_hand, dealer_hand, True)
 
-        result_game(player_value=get_hand_value(player_hand),
-                    dealer_value=get_hand_value(dealer_hand),
-                    money=money,
-                    bet=bet)
+        money = result_game(player_value=get_hand_value(player_hand),
+                            dealer_value=get_hand_value(dealer_hand),
+                            money=money,
+                            bet=bet)
 
 
 # If the program is run (instead of imported), run the game:
